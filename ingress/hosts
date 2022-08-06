@@ -18,5 +18,3 @@ spec:
         - backend:
            serviceName: test2
            servicePort: 80
-
-  
